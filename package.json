@@ -14,15 +14,15 @@
   "devDependencies": {
     "babel-eslint": "^8.0.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "eslint": "^4.11.0",
     "eslint-plugin-react": "^7.5.1",
     "prettier": "^1.8.2"
   },
   "dependencies": {
-    "axios": "^0.17.1",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
     "dotenv": "^4.0.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "pushover-logger": "^1.0.1"
   }
 }

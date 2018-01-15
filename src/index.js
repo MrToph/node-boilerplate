@@ -1,5 +1,5 @@
 import './config'
-import logger from './pushover-logger'
+import logger from 'pushover-logger'
 logger.setTitle(require(`../package.json`).name)
 // logger.enableDebug()
 
