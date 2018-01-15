@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "node-boilerplate",
+      "cwd": ".",
+      "script": "npm",
+      "args": "run start"
+    }
+  ]
+}

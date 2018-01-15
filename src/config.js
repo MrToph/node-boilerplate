@@ -1,0 +1,4 @@
+// THIS FILE MUST BE _IMPORTED_ FIRST (NOT REQUIRED),
+// SO ENVIRONMENT VARIABLES ARE SET UP FIRST 
+import dotenv from 'dotenv'
+dotenv.config()
